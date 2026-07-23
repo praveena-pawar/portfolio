@@ -109,7 +109,7 @@ Open `index.html` in your browser.
 
 📧 Email: praveena.dev02@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/praveena-pawar
+💼 LinkedIn: https://www.linkedin.com/in/praveena-pawar-ai/
 
 🐙 GitHub: https://github.com/praveena-pawar
 
